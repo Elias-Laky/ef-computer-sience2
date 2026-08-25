@@ -1,5 +1,0 @@
-\bold{Hausdorff diemnsion of the Koch kurve and the Cantor set}
-
-With the scaling property of the Hausdorff Mass, the fractal dimension is determined to be
-
-•	Dim_H(K) = \underline{1.26}
